@@ -7,23 +7,22 @@
 
 I'm a passionated software engineer in infrastructure engineering focused on Cloud technologies and DevOps practices.
 
-
+- My recent works are about Kubernetes, Istio, and Disaster Recovery that involves multi-datacenters as well as multi-clusters setup.
 - ✅ License & certifications:
     * [LFCS](https://www.youracclaim.com/badges/747f6deb-0e66-4168-b6f6-4c3351f5542d): Linux Foundation Certified System Administrator
     * [LFCE](https://www.youracclaim.com/badges/01886f46-7dae-4fa1-b639-ec35eeee097e): Linux Foundation Certified Engineer
     * [CKA](https://www.youracclaim.com/badges/3899fe66-ea5c-46e8-b44b-1e9e04b75daf/linked_in_profile): Certified Kubernetes Administrator
-- ☁️ Cloud platform: Bare-metal, Google Cloud Platform, AWS, VMWare and more.
-- 💬 Ask me about [Kubernetes](https://kubernetes.io), [Go language](https://golang.org), [Ansible](https://docs.ansible.com), [Terraform](https://terraform.io)
+- ☁️ I have been working with various infrastructure environments, including but not limited to Bare-metal, Google Cloud Platform, AWS, and VMWare vSphere.
+- 💬 Interested to [Kubernetes](https://kubernetes.io), [Go](https://golang.org), [Internal Developer Platform](https://internaldeveloperplatform.org/), and Service Proxy (e.g. Nginx, and Envoy)
 - 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=%20&message=me@ardikabs.com&logo=gmail&style=flat&labelColor=white)](mailto:me@ardikabs.com)
 
 ![ardikabs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardikabs&show_icons=true&count_private=true&line_height=40)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://smi-spec.io/" target="_blank" rel="noreferrer"> <img src="https://cncf-branding.netlify.app/img/projects/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.svg" alt="smi" width="40" height="40"/> </a>
+<a href="https://smi-spec.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/servicemeshinterface/smi-spec/main/images/logo/icon.svg" alt="smi" width="50" height="50"/> </a>
 <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google-cloud-platform" width="40" height="40"/> </a>
 <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 
@@ -34,7 +33,7 @@ I'm a passionated software engineer in infrastructure engineering focused on Clo
 <a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"> <img src="https://akbar.codes/images/posts/how-to-deploy-with-gitlab-ci/gitlab-ci.png" alt="gitlabci" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_92/48_prometheus-icon.868ae3f11c.svg" alt="prometheus" width="40" height="40"/> </a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" alt="prometheus" width="40" height="40"/> </a>
 <a href="https://victoriametrics.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/anodot/w_120/fl_lossy,f_auto,q_auto/wp-website/integration-VictoriaMetrics.svg" alt="victoriametrics" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://docs.ansible.com/ansible/latest/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="40" height="40"/> </a>
