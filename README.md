@@ -41,4 +41,7 @@ I'm a passionated software engineer in infrastructure engineering focused on Clo
 <a href="https://www.packer.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/> </a>
 <a href="https://www.consul.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/> </a>
 <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/> </a>
+
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="img/nginx.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://envoyproxy.io/" target="_blank" rel="noreferrer"> <img src="img/envoyproxy.svg" alt="envoy" width="50" height="50"/> </a>
 </p>
