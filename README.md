@@ -20,29 +20,6 @@ A software engineer with strong focus on Infrastructure Engineering fields inclu
 
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway/commits?author=ardikabs)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://smi-spec.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/servicemeshinterface/smi-spec/main/images/logo/icon.svg" alt="smi" width="50" height="50"/> </a>
-<a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google-cloud-platform" width="40" height="40"/> </a>
-<a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+---
 
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"> <img src="https://akbar.codes/images/posts/how-to-deploy-with-gitlab-ci/gitlab-ci.png" alt="gitlabci" width="40" height="40"/> </a>
-
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus-logo.svg" alt="prometheus" width="40" height="40"/> </a>
-<a href="https://victoriametrics.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/anodot/w_120/fl_lossy,f_auto,q_auto/wp-website/integration-VictoriaMetrics.svg" alt="victoriametrics" width="40" height="40"/> </a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://docs.ansible.com/ansible/latest/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="40" height="40"/> </a>
-
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://www.packer.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/> </a>
-<a href="https://www.consul.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/> </a>
-<a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/> </a>
-
-<a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="img/nginx.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://envoyproxy.io/" target="_blank" rel="noreferrer"> <img src="img/envoyproxy.svg" alt="envoy" width="50" height="50"/> </a>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ardikabs&theme=github-light&hide_border=true)](https://git.io/streak-stats)
