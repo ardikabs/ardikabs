@@ -14,7 +14,3 @@ A software engineer with strong focus on Infrastructure Engineering fields inclu
 ### Recent Contribution Activity
 
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway/commits?author=ardikabs)
-
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ardikabs&theme=github-light&hide_border=true)](https://git.io/streak-stats)
