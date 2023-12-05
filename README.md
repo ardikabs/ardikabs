@@ -4,7 +4,7 @@
 
 A software engineer with strong focus on Infrastructure Engineering fields including Cloud Native and DevOps practices.
 
-- :rocket: Current focus:
+- :rocket: Current focus
 
   - All around with Kubernetes, Cilium, and Envoy Proxy stack.
   - Working on an in-house Envoy [HTTP Golang filter](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/golang_filter) to enable Envoy Proxy act as functional API Gateway, such as handling Authentication, Authorization, JWT Token Revocation, etc.
