@@ -17,7 +17,7 @@ A software engineer with strong focus on Infrastructure Engineering fields inclu
     [![Mail](https://img.shields.io/static/v1?label=%20&message=me@ardikabs.com&logo=gmail&style=flat&labelColor=white)](mailto:me@ardikabs.com)
     [![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&color=blue&logo=LinkedIn&style=flat&labelColor=blue)](https://www.linkedin.com/in/ardikabs/)
 
-### Recent Contribution Activity
+### Recent Activity in Open Source Contributions
 
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway/commits?author=ardikabs)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize/commits?author=ardikabs)
